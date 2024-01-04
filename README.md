@@ -4,7 +4,7 @@ At Edgee, we're pioneering the future of edge computing, transforming how data i
 
 ## Open Positions
 
-Check out our current job openings on the [issues](issues) page. Click on each role to learn more about the responsibilities, requirements, and how to apply.
+Check out our current job openings on the [issues](https://github.com/edgee-cloud/careers/issues) page. Click on each role to learn more about the responsibilities, requirements, and how to apply.
 
 
 ## Why Edgee?
