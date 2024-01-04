@@ -1,6 +1,4 @@
-# Work with us
-
-## 🚀 Join Our Team!
+# 🚀 Join Our Team!
 
 At Edgee, we're pioneering the future of edge computing, transforming how data is processed. We're looking for passionate, innovative minds to join us on this exciting journey.
 
